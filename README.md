@@ -38,15 +38,6 @@ Desenvolvedor focado em **Backend, Arquitetura de Dados e Redes**.
 
 ---
 
-### 📊 Estatísticas de Código
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KLOPAA&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLOPAA&layout=compact&theme=dark" alt="Linguagens mais usadas" />
-</p>
-
----
-
 ### 📫 Contato
 
 - **E-mail:** [galmeidaaquinom@gmail.com](mailto:galmeidaaquinom@gmail.com)
