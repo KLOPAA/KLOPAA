@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel Almeida! 🚀
+# Olá, eu sou o Gabriel Almeida! 
 
 Desenvolvedor focado em **Backend, Arquitetura de Dados e Redes**.
 
